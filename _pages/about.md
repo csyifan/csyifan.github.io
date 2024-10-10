@@ -30,7 +30,7 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
   <li><em>2024.08:</em> We attended The 33rd International Joint Conference on Artificial Intelligence (IJCAI) and presented our work in Jeju Island.</li>
   <li><em>2024.07:</em> I started an internship as a Machine Learning Engineer at <a href="https://www.mindrank.ai/en">MindRank</a>, working on AI-driven drug discovery research.</li>
   <li><em>2024.06:</em> One paper about Anomaly Detection was accepted by AI for Time Series Analysis Workshop@IJCAI 2024. See you in Jeju Island!</li>
-  <li><em>2023.08:</em> A paper was accepted to CICAI 2023.</li>
+  <li><em>2023.08:</em> A paper was accepted to <strong>CICAI 2023</strong>.</li>
   <li><em>2023.07:</em> New Journal Paper Accepted by <strong>Pattern Recognition</strong>.</li>
 </ul>
 </div>
@@ -55,13 +55,6 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.07 - 2024.09*, [MindRank](https://www.mindrank.ai/en), Hangzhou, China.
