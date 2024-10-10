@@ -22,16 +22,19 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 
 🎈 I’m actively applying for a Ph.D. position in 2025 Fall!
 
-<div style="max-height: 200px; overflow-y: auto;">
 # 🔥 News
-- *2024.09*: I have completed my internship at [MindRank](https://www.mindrank.ai/en). Thanks to everyone!
-- *2024.09*: I serve as a reviewer for **ICLR 2025**.
-- *2024.08*: We attended The 33rd International Joint Conference on Artificial Intelligence (IJCAI) and presented our work in Jeju Island.
-- *2024.07*: I start an internship as a Machine Learning Engineer at [MindRank](https://www.mindrank.ai/en), working on AI-driven drug discovery research.
-- *2024.06*：One paper about Anomaly Detection was accepted by AI for Time Series Analysis Workshp@IJCAI 2024. See you in Jeju Island!
-- *2023.08*：A paper was accepted to CICAI 2023.
-- *2023.07*：New Journal Paper Accepted by Pattern Recognition.
+<div style="max-height: 200px; overflow-y: auto;">
+<ul>
+  <li><em>2024.09:</em> I have completed my internship at <a href="https://www.mindrank.ai/en">MindRank</a>. Thanks to everyone!</li>
+  <li><em>2024.09:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
+  <li><em>2024.08:</em> We attended The 33rd International Joint Conference on Artificial Intelligence (IJCAI) and presented our work in Jeju Island.</li>
+  <li><em>2024.07:</em> I started an internship as a Machine Learning Engineer at <a href="https://www.mindrank.ai/en">MindRank</a>, working on AI-driven drug discovery research.</li>
+  <li><em>2024.06:</em> One paper about Anomaly Detection was accepted by AI for Time Series Analysis Workshop@IJCAI 2024. See you in Jeju Island!</li>
+  <li><em>2023.08:</em> A paper was accepted to CICAI 2023.</li>
+  <li><em>2023.07:</em> New Journal Paper Accepted by <strong>Pattern Recognition</strong>.</li>
+</ul>
 </div>
+
 
 # 📝 Publications 
 
