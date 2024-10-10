@@ -20,12 +20,17 @@ redirect_from:
 
 I am a senior undergraduate student majoring in Artificial Intelligence Security, from [Zhuoyue Honors College](https://zhuoyue.hdu.edu.cn/) at [Hangzhou Dianzi University](https://www.hdu.edu.cn/). During my undergraduate studies, I am fortunate to be working on something interesting in the long term with [Pengfei Jiao](https://cspjiao.github.io/). Now, I am working on research related to Large Language Models with some talented collaborators.
 
-🌹 I’m actively applying for a Ph.D. position in 2025 Fall!
+🎈 I’m actively applying for a Ph.D. position in 2025 Fall!
 
 
 # 🔥 News
+- *2024.09*: I have completed my internship at [MindRank](https://www.mindrank.ai/en). Thanks to everyone!
 - *2024.09*: I serve as a reviewer for **ICLR 2025**.
 - *2024.08*: We attended The 33rd International Joint Conference on Artificial Intelligence (IJCAI) and presented our work in Jeju Island.
+- *2024.07*: I start an internship as a Machine Learning Engineer at [MindRank](https://www.mindrank.ai/en), working on AI-driven drug discovery research.
+- *2024.06*：One paper about Anomaly Detection was accepted by AI for Time Series Analysis Workshp@IJCAI 2024. See you in Jeju Island!
+- *2023.08*：A paper was accepted to CICAI 2023.
+- *2023.07*：New Journal Paper Accepted by Pattern Recognition.
 
 # 📝 Publications 
 
