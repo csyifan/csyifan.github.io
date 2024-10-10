@@ -71,7 +71,7 @@ c) Large Language Models
 # 🎖 Honors and Awards
 - *2024.10* **First Class Scholarship** (Top 15% school-wide)
 - *2022.06* **Three Class Award** Yangtze River Delta Mathematical Modeling Competition (nation-wide)
-- *2021.12* **Champion** HDU Mathematical Modeling Competition (Top 1 school-wide)
+- *2021.12* **Champion** Yunzhenxin Cup Mathematical Modeling Competition (Top 1 school-wide)
 
 
 # 💻 Internships
