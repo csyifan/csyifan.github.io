@@ -22,6 +22,21 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 
 🎈 I’m actively applying for a Ph.D. position in 2025 Fall!
 
+# 🔎 Research 
+I am enthusiastic about exploring the mysteries of Artificial Intelligence, to make the world better. Currently, my research interests revolve around three primary areas:
+
+a) Graph Neural Networks：
+- Heterogeneous Graph
+- GNN explanation method
+- Self-supervised GNN
+
+b) AI for Science:
+- Antibody Design and Optimization
+- Affinity Prediction
+- Interpretable Generation
+
+c) Large Language Models
+
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
@@ -36,7 +51,7 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 </div>
 
 
-# 📝 Publications 
+# 📄 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -50,11 +65,16 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 </div>
 </div>
 
+# 📝 Manuscripts
+
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.10* **First Class Scholarship** (Top 15% school-wide) Hangzhou Dianzi University
+- *2022.06* **Three Class Award** Yangtze River Delta Mathematical Modeling Competition (nation-wide)
+- *2021.12* **Champion** HDU Mathematical Modeling Competition (Top 1 school-wide) Hangzhou Dianzi University
 
 
 # 💻 Internships
 - *2024.07 - 2024.09*, [MindRank](https://www.mindrank.ai/en), Hangzhou, China.
+
+  #
