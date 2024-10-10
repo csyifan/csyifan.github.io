@@ -22,7 +22,7 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 
 🎈 I’m actively applying for a Ph.D. position in 2025 Fall!
 
-
+<div style="max-height: 200px; overflow-y: auto;">
 # 🔥 News
 - *2024.09*: I have completed my internship at [MindRank](https://www.mindrank.ai/en). Thanks to everyone!
 - *2024.09*: I serve as a reviewer for **ICLR 2025**.
@@ -31,6 +31,7 @@ I am a senior undergraduate student majoring in Artificial Intelligence Security
 - *2024.06*：One paper about Anomaly Detection was accepted by AI for Time Series Analysis Workshp@IJCAI 2024. See you in Jeju Island!
 - *2023.08*：A paper was accepted to CICAI 2023.
 - *2023.07*：New Journal Paper Accepted by Pattern Recognition.
+</div>
 
 # 📝 Publications 
 
