@@ -69,12 +69,15 @@ c) Large Language Models
 
 
 # 🎖 Honors and Awards
-- *2024.10* **First Class Scholarship** (Top 15% school-wide) Hangzhou Dianzi University
+- *2024.10* **First Class Scholarship** (Top 15% school-wide) *Hangzhou Dianzi University*
 - *2022.06* **Three Class Award** Yangtze River Delta Mathematical Modeling Competition (nation-wide)
-- *2021.12* **Champion** HDU Mathematical Modeling Competition (Top 1 school-wide) Hangzhou Dianzi University
+- *2021.12* **Champion** HDU Mathematical Modeling Competition (Top 1 school-wide) *Hangzhou Dianzi University*
 
 
 # 💻 Internships
-- *2024.07 - 2024.09*, [MindRank](https://www.mindrank.ai/en), Hangzhou, China.
+- *2024.07 - 2024.09* [MindRank](https://www.mindrank.ai/en), Hangzhou, China.
 
-  #
+# 🌠 Practical Experience
+- *2023.06 - 2024.03* Student Union President, Zhuoyue Honors College
+- *2022.06 - 2023.06* Referee Department Head, Hangzhou Dianzi University Football Club
+- *2022.06 - 2023.06* Head of Learning Department, Zhuoyue Honors College
