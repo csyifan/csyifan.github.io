@@ -27,8 +27,8 @@ I am enthusiastic about exploring the mysteries of Artificial Intelligence, to m
 
 a) Graph Neural Networks：
 - Heterogeneous Graph
-- GNN Explanation Method
-- Self-supervised GNN
+- Trustworthy Graph Learning
+- GNN Application
 
 b) AI for Science:
 - Antibody Design and Optimization
