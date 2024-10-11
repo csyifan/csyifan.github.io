@@ -53,15 +53,36 @@ c) Large Language Models
 
 # 📄 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Neighborhood overlap-aware heterogeneous hypergraph neural network for link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005162)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**<u>Yifan Lu</u>**, Mengzhou Gao, Huan Liu, Zehao Liu, Wei Yu, Xiaoming Li, Pengfei Jiao
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Pattern Recognition, 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcaiat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](https://link.springer.com/chapter/10.1007/978-981-99-8850-1_37)
+
+Mengzhou Gao, Zehao Liu, **<u>Yifan Lu</u>**, Pengfei Jiao
+
+IJCAI24 Workshop: Artificial Intelligence for Time Series Analysis, 2024
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mimnp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heterogeneous Link Prediction via Mutual Information Maximization Between Node Pairs](https://link.springer.com/chapter/10.1007/978-981-99-8850-1_37)
+
+**<u>Yifan Lu</u>**, Zehao Liu, Mengzhou Gao, Pengfei Jiao
+
+CAAI International Conference on Artificial Intelligence (CICAI), 2023
 </div>
 </div>
 
