@@ -64,10 +64,10 @@ Pattern Recognition, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcaiat.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](https://link.springer.com/chapter/10.1007/978-981-99-8850-1_37)
+[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](pdf/IJCAI24_workshop.pdf)
 
 Mengzhou Gao, Zehao Liu, **<u>Yifan Lu</u>**, Pengfei Jiao
 
@@ -87,6 +87,50 @@ CAAI International Conference on Artificial Intelligence (CICAI), 2023
 </div>
 
 # 📝 Manuscripts
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iclr25.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Robust Heterogeneous Graph Neural Network Explainer with Graph Information Bottleneck](# manuscripts)
+
+**<u>Yifan Lu</u>**, Pengfei Jiao, Xuan Guo, Ziyun Zou, Yiwei Wang, Mengzhou Gao, Huaming Wu 
+
+under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassplyf.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](# manuscripts)
+
+**<u>Yifan Lu</u>**, Ziyun Zou, Pengfei Jiao, Zehao Liu, Mengzhou Gao
+
+under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/htcns.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Heterogeneous Graph Transformer with Contextual Neighbor Sampling](# manuscripts)
+
+Pengfei Jiao&dagger;, **<u>Yifan Lu&dagger;</u>(co-first)**, Huan Liu, Xuan Guo, Xiao Wang
+
+under review
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icasspzzy.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RETAIN: Reliable Topology Augmentation for both Heterophily and Homophily Graphs](# manuscripts)
+
+Ziyun Zou, Lian Shen, Yanhao Li, **<u>Yifan Lu</u>**, Juan Liu, Xiangrong Liu
+
+under review
+</div>
+</div>
 
 
 # 🎖 Honors and Awards
