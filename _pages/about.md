@@ -27,7 +27,7 @@ I am enthusiastic about exploring the mysteries of Artificial Intelligence, to m
 
 a) Graph Neural Networks：
 - Heterogeneous Graph
-- GNN explanation method
+- GNN Explanation Method
 - Self-supervised GNN
 
 b) AI for Science:
@@ -53,7 +53,7 @@ c) Large Language Models
 
 # 📄 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="200" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neighborhood overlap-aware heterogeneous hypergraph neural network for link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005162)
@@ -64,7 +64,7 @@ Pattern Recognition, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="200" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](pdf/IJCAI24_workshop.pdf)
@@ -75,7 +75,7 @@ IJCAI24 Workshop: Artificial Intelligence for Time Series Analysis, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/mimnp.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mimnp.jpg' alt="sym" width="200" height="150"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Heterogeneous Link Prediction via Mutual Information Maximization Between Node Pairs](https://link.springer.com/chapter/10.1007/978-981-99-8850-1_37)
