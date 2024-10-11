@@ -71,7 +71,7 @@ Pattern Recognition, 2023
 
 Mengzhou Gao, Zehao Liu, **<u>Yifan Lu</u>**, Pengfei Jiao
 
-IJCAI24 Workshop: Artificial Intelligence for Time Series Analysis, 2024
+IJCAI'24 Workshop: Artificial Intelligence for Time Series Analysis, 2024
 </div>
 </div>
 
