@@ -91,7 +91,7 @@ CAAI International Conference on Artificial Intelligence (CICAI), 2023
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/iclr25.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Robust Heterogeneous Graph Neural Network Explainer with Graph Information Bottleneck](# manuscripts)
+[Robust Heterogeneous Graph Neural Network Explainer with Graph Information Bottleneck](#-manuscripts)
 
 **<u>Yifan Lu</u>**, Pengfei Jiao, Xuan Guo, Ziyun Zou, Yiwei Wang, Mengzhou Gao, Huaming Wu 
 
@@ -102,7 +102,7 @@ under review
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icassplyf.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](# manuscripts)
+[LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](#-manuscripts)
 
 **<u>Yifan Lu</u>**, Ziyun Zou, Pengfei Jiao, Zehao Liu, Mengzhou Gao
 
@@ -113,7 +113,7 @@ under review
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/htcns.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Heterogeneous Graph Transformer with Contextual Neighbor Sampling](# manuscripts)
+[Heterogeneous Graph Transformer with Contextual Neighbor Sampling](#-manuscripts)
 
 Pengfei Jiao&dagger;, **<u>Yifan Lu&dagger;</u>(co-first)**, Huan Liu, Xuan Guo, Xiao Wang
 
@@ -124,7 +124,7 @@ under review
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/icasspzzy.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[RETAIN: Reliable Topology Augmentation for both Heterophily and Homophily Graphs](# manuscripts)
+[RETAIN: Reliable Topology Augmentation for both Heterophily and Homophily Graphs](#-manuscripts)
 
 Ziyun Zou, Lian Shen, Yanhao Li, **<u>Yifan Lu</u>**, Juan Liu, Xiangrong Liu
 
