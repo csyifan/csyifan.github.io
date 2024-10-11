@@ -53,7 +53,7 @@ c) Large Language Models
 
 # 📄 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="200" height="150"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="300" height="200"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neighborhood overlap-aware heterogeneous hypergraph neural network for link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005162)
