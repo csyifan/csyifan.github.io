@@ -53,7 +53,7 @@ c) Large Language Models
 
 # 📄 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="375" height="250"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/noh.jpg' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Neighborhood overlap-aware heterogeneous hypergraph neural network for link prediction](https://www.sciencedirect.com/science/article/abs/pii/S0031320323005162)
@@ -64,7 +64,7 @@ Pattern Recognition, 2023
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="375" height="250"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](pdf/IJCAI24_workshop.pdf)
@@ -75,7 +75,7 @@ IJCAI24 Workshop: Artificial Intelligence for Time Series Analysis, 2024
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/mimnp.jpg' alt="sym" width="375" height="250" style="object-fit: cover;"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/mimnp.jpg' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Heterogeneous Link Prediction via Mutual Information Maximization Between Node Pairs](https://link.springer.com/chapter/10.1007/978-981-99-8850-1_37)
@@ -88,7 +88,7 @@ CAAI International Conference on Artificial Intelligence (CICAI), 2023
 
 # 📝 Manuscripts
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/iclr25.jpg' alt="sym" width="375" height="250"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/iclr25.jpg' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Robust Heterogeneous Graph Neural Network Explainer with Graph Information Bottleneck](# manuscripts)
@@ -99,7 +99,7 @@ under review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassplyf.jpg' alt="sym" width="375" height="250"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassplyf.jpg' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](# manuscripts)
@@ -110,7 +110,7 @@ under review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/htcns.jpg' alt="sym" width="375" height="250"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/htcns.jpg' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Heterogeneous Graph Transformer with Contextual Neighbor Sampling](# manuscripts)
@@ -121,7 +121,7 @@ under review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icasspzzy.jpg' alt="sym" width="375" height="250"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icasspzzy.jpg' alt="sym" width="100%" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [RETAIN: Reliable Topology Augmentation for both Heterophily and Homophily Graphs](# manuscripts)
