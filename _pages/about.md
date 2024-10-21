@@ -41,10 +41,10 @@ c) Large Language Models
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
   <li><em>2024.10:</em> I win a gold medal in the China International College Students' Innovation Competition 2024.</li>
-  <li><em>2024.09:</em> I have completed my internship at <a href="https://www.mindrank.ai/en">MindRank</a>. Thanks to everyone!</li>
+  <li><em>2024.09:</em> I have completed my internship at <strong>MindRank</strong>. Thanks to everyone!</li>
   <li><em>2024.09:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
   <li><em>2024.08:</em> We attended The 33rd International Joint Conference on Artificial Intelligence (IJCAI) and presented our work in Jeju Island.</li>
-  <li><em>2024.07:</em> I started an internship as a Machine Learning Engineer at <a href="https://www.mindrank.ai/en">MindRank</a>, working on AI-driven drug discovery research.</li>
+  <li><em>2024.07:</em> I started an internship as a Machine Learning Engineer at <strong>MindRank</strong>, working on AI-driven drug discovery research.</li>
   <li><em>2024.06:</em> One paper about Anomaly Detection was accepted by AI for Time Series Analysis Workshop@IJCAI 2024. See you in Jeju Island!</li>
   <li><em>2023.08:</em> A paper was accepted to <strong>CICAI 2023</strong>.</li>
   <li><em>2023.07:</em> New Journal Paper Accepted by <strong>Pattern Recognition</strong>.</li>
