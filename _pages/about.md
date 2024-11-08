@@ -99,16 +99,6 @@ under review
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassplyf.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](#-manuscripts)
-
-**<u>Yifan Lu</u>**, Ziyun Zou, Pengfei Jiao, Zehao Liu, Mengzhou Gao
-
-under review
-</div>
-</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/htcns.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -116,6 +106,18 @@ under review
 [Heterogeneous Graph Transformer with Contextual Neighbor Sampling](#-manuscripts)
 
 Pengfei Jiao&dagger;, **<u>Yifan Lu&dagger;</u>(co-first)**, Huan Liu, Xuan Guo, Xiao Wang
+
+under review
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icassplyf.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](#-manuscripts)
+
+**<u>Yifan Lu</u>**, Ziyun Zou, Pengfei Jiao, Zehao Liu, Mengzhou Gao
 
 under review
 </div>
