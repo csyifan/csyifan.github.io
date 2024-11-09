@@ -20,7 +20,7 @@ redirect_from:
 
 I am a senior undergraduate student majoring in Artificial Intelligence Security, from [Zhuoyue Honors College](https://zhuoyue.hdu.edu.cn/) at [Hangzhou Dianzi University](https://www.hdu.edu.cn/). During my undergraduate studies, I am fortunate to be working on something interesting in the long term with [Pengfei Jiao](https://cspjiao.github.io/). Now, I am working on research related to Large Language Models with some talented collaborators.
 
-🎈 I’m actively applying for a Ph.D. position in 2025 Fall! [CV](pdf/YifanLu_CV.pdf)
+🎈 I’m actively applying for a Ph.D. position in 2025 Fall! If you are interested in my research, please feel free to contact. [CV](pdf/YifanLu_CV.pdf)
 
 # 🔎 Research 
 I am enthusiastic about exploring the mysteries of Artificial Intelligence, to make the world better. Currently, my research interests revolve around three primary areas:
