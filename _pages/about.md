@@ -28,11 +28,12 @@ I am enthusiastic about exploring the mysteries of Artificial Intelligence, to m
 a) Trustworthy Machine Learning：
 - Graph Neural Network Explainers
 - Trustworthy LLMs
-- Interpretable Design of Antibodies
+- Interpretable Antibody Design and Optimization
 
-b) AI for Science:
-- Antibody Design and Optimization
-- Affinity Prediction
+b) Graph Neural Networks:
+- Heterogeneous Graph
+- Antibody Affinity Prediction
+- Graph Transformer
 
 c) Large Language Models
 
