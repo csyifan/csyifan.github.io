@@ -67,7 +67,8 @@ Pattern Recognition, 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](#-Publications)
+[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](#-mublications)
+
 
 Mengzhou Gao, Zehao Liu, **<u>Yifan Lu</u>**, Pengfei Jiao
 
@@ -101,7 +102,6 @@ under review
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/htcns.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Heterogeneous Graph Transformer with Contextual Neighbor Sampling](#-manuscripts)
 
 Pengfei Jiao&dagger;, **<u>Yifan Lu&dagger;</u>(co-first)**, Huan Liu, Xuan Guo, Xiao Wang
