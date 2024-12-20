@@ -67,7 +67,7 @@ Pattern Recognition, 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](#-mublications)
+[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](#-publications)
 
 
 Mengzhou Gao, Zehao Liu, **<u>Yifan Lu</u>**, Pengfei Jiao
