@@ -67,8 +67,7 @@ Pattern Recognition, 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/ijcai24.png' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-
-[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](pdf/IJCAI24_workshop.pdf)
+[Physical Process Guided Graph Neural Networks for Anomaly Detection in CPSs](#-Publications)
 
 Mengzhou Gao, Zehao Liu, **<u>Yifan Lu</u>**, Pengfei Jiao
 
@@ -91,7 +90,6 @@ CAAI International Conference on Artificial Intelligence (CICAI), 2023
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/iclr25.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Robust Heterogeneous Graph Neural Network Explainer with Graph Information Bottleneck](#-manuscripts)
 
 **<u>Yifan Lu</u>**, Pengfei Jiao, Xuan Guo, Ziyun Zou, Yiwei Wang, Mengzhou Gao, Huaming Wu 
