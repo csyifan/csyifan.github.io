@@ -40,6 +40,7 @@ c) Large Language Models
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2024.12:</em> A paper was accepted to <strong>ICASSP 2025</strong>, congrats to all collaborators!</li>
   <li><em>2024.10:</em> I win a gold medal in the China International College Students' Innovation Competition 2024.</li>
   <li><em>2024.09:</em> I have completed my internship at <strong>MindRank</strong>. Thanks to everyone!</li>
   <li><em>2024.09:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
@@ -78,12 +79,22 @@ IJCAI'24 Workshop: Artificial Intelligence for Time Series Analysis, 2024
 
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/mimnp.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
 <div class='paper-box-text' markdown="1">
-
 [Heterogeneous Link Prediction via Mutual Information Maximization Between Node Pairs](https://link.springer.com/chapter/10.1007/978-981-99-8850-1_37)
 
 **<u>Yifan Lu</u>**, Zehao Liu, Mengzhou Gao, Pengfei Jiao
 
 CAAI International Conference on Artificial Intelligence (CICAI), 2023
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/icasspzzy.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[RETAIN: Reliable Topology Augmentation for both Heterophily and Homophily Graphs](#-manuscripts)
+
+Ziyun Zou, Lian Shen, Yanhao Li, **<u>Yifan Lu</u>**, Juan Liu, Xiangrong Liu
+
+2025 IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2025)
 </div>
 </div>
 
@@ -117,17 +128,6 @@ under review
 [LLM-based Species-Specific Antibody Design and Optimization for Protein Structures](#-manuscripts)
 
 **<u>Yifan Lu</u>**, Ziyun Zou, Pengfei Jiao, Zehao Liu, Mengzhou Gao
-
-under review
-</div>
-</div>
-
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/icasspzzy.jpg' alt="sym" width="390" height="250" style="object-fit: cover;"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[RETAIN: Reliable Topology Augmentation for both Heterophily and Homophily Graphs](#-manuscripts)
-
-Ziyun Zou, Lian Shen, Yanhao Li, **<u>Yifan Lu</u>**, Juan Liu, Xiangrong Liu
 
 under review
 </div>
