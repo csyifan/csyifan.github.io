@@ -115,7 +115,7 @@ under review
 <div class='paper-box-text' markdown="1">
 [Heterogeneous Graph Transformer with Contextual Neighbor Sampling](#-manuscripts)
 
-Pengfei Jiao&dagger;, **<u>Yifan Lu&dagger;</u>(co-first)**, Huan Liu, Xuan Guo, Xiao Wang
+Pengfei Jiao&dagger;, **<u>Yifan Lu&dagger;</u>(co-first)**, Huan Liu, Xuan Guo
 
 under review
 </div>
