@@ -40,7 +40,7 @@ c) Large Language Models
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
-  <li><em>2024.12:</em> A paper was accepted to <strong>ICASSP 2025</strong>, congrats to all collaborators!</li>
+  <li><em>2024.12:</em> A paper was accepted to <strong>ICASSP 2025</strong>. See you in Hyderabad!</li>
   <li><em>2024.10:</em> I win a gold medal in the China International College Students' Innovation Competition 2024.</li>
   <li><em>2024.09:</em> I have completed my internship at <strong>MindRank</strong>. Thanks to everyone!</li>
   <li><em>2024.09:</em> I serve as a reviewer for <strong>ICLR 2025</strong>.</li>
