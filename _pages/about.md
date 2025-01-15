@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 
-I am a senior undergraduate student majoring in Artificial Intelligence Security, from [Zhuoyue Honors College](https://zhuoyue.hdu.edu.cn/) at [Hangzhou Dianzi University](https://www.hdu.edu.cn/). During my undergraduate studies, I am fortunate to be working on something interesting in the long term with [Pengfei Jiao](https://cspjiao.github.io/). Now, I am working on research related to Large Language Models with some talented collaborators.
+I am a senior undergraduate student majoring in Artificial Intelligence Security, from [Zhuoyue Honors College](https://zhuoyue.hdu.edu.cn/) at [Hangzhou Dianzi University](https://www.hdu.edu.cn/). During my undergraduate studies, I am fortunate to be working on something interesting in the long term with [Pengfei Jiao](https://cspjiao.github.io/). Now, I am working on research related to Large Language Models with some talented collaborators. 
 
 🎈 **I’m actively applying for a Ph.D. position in Fall 2025! If you are interested in my research, please feel free to contact.** [CV](pdf/YifanLu_CV.pdf)
 
@@ -141,10 +141,12 @@ under review
 - *2021.12* **Champion** Yunzhenxin Cup Mathematical Modeling Competition (school-wide)
 
 
-# 💻 Internships
-- *2024.07 - 2024.09* [MindRank](https://www.mindrank.ai/en), Hangzhou, China.
+# 💻 Service
+- Conference Reviewer: ICLR'2025
+- Journal Reviewer: IEEE Transactions on Industrial Informatics (TII)
 
-# 🌠 Practical Experience
+# 🌠 Experience
+- *2024.07 - 2024.09* Machine Learning Intern, [MindRank](https://www.mindrank.ai/en), Hangzhou, China.
 - *2023.06 - 2024.03* Student Union President, Zhuoyue Honors College
 - *2022.06 - 2023.06* Referee Department Head, Hangzhou Dianzi University Football Club
 - *2022.06 - 2023.06* Head of Learning Department, Zhuoyue Honors College
