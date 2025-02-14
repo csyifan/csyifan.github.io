@@ -40,6 +40,7 @@ c) Large Language Models
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.02:</em> I have received the IEEE ICASSP 2025 Conference Travel Grant. See you in Hyderabad!</li>
   <li><em>2025.01:</em> I serve as a reviewer for <strong>IEEE Transactions on Industrial Informatics</strong>.</li>
   <li><em>2024.12:</em> A paper was accepted to <strong>ICASSP 2025</strong>.</li>
   <li><em>2024.10:</em> I win a gold medal in the China International College Students' Innovation Competition 2024.</li>
@@ -136,6 +137,7 @@ under review
 
 
 # 🎖 Honors and Awards
+- *2025.02* **Conference Grant** IEEE ICASSP 2025 Conference Travel Grant
 - *2024.10* **Gold Medal** China International College Students' Innovation Competition 2024 (nation-wide)
 - *2024.10* **First Class Scholarship** (Top 15% school-wide)
 - *2022.06* **Three Class Award** Yangtze River Delta Mathematical Modeling Competition (nation-wide)
@@ -151,3 +153,7 @@ under review
 - *2023.06 - 2024.03* Student Union President, Zhuoyue Honors College
 - *2022.06 - 2023.06* Referee Department Head, Hangzhou Dianzi University Football Club
 - *2022.06 - 2023.06* Head of Learning Department, Zhuoyue Honors College
+
+<noscript>
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6kLARJW2Jm-j-cErCp3Clgy3RcUsN1HcSKUBw4Cnjt4&cl=ffffff&w=a"></script>
+</noscript>
