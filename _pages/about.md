@@ -154,4 +154,6 @@ under review
 - *2022.06 - 2023.06* Referee Department Head, Hangzhou Dianzi University Football Club
 - *2022.06 - 2023.06* Head of Learning Department, Zhuoyue Honors College
 
-<script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6kLARJW2Jm-j-cErCp3Clgy3RcUsN1HcSKUBw4Cnjt4&cl=ffffff&w=a"></script>
+<div style="display: none;">
+  <script type="text/javascript" id="mapmyvisitors" src="//mapmyvisitors.com/map.js?d=6kLARJW2Jm-j-cErCp3Clgy3RcUsN1HcSKUBw4Cnjt4&cl=ffffff&w=a"></script>
+</div>
