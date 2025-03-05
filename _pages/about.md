@@ -40,6 +40,7 @@ c) Large Language Models
 # 🔥 News
 <div style="max-height: 200px; overflow-y: auto;">
 <ul>
+  <li><em>2025.03:</em> I serve as a reviewer for <strong>IJCNN 2025</strong>.</li>
   <li><em>2025.02:</em> I have received the IEEE ICASSP 2025 Conference Travel Grant. See you in Hyderabad!</li>
   <li><em>2025.01:</em> I serve as a reviewer for <strong>IEEE Transactions on Industrial Informatics</strong>.</li>
   <li><em>2024.12:</em> A paper was accepted to <strong>ICASSP 2025</strong>.</li>
@@ -145,7 +146,7 @@ under review
 
 
 # 💻 Service
-- Conference Reviewer: ICLR'2025
+- Conference Reviewer: ICLR'2025, IJCNN'2025
 - Journal Reviewer: IEEE Transactions on Industrial Informatics (TII)
 
 # 🌠 Experience
